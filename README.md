@@ -237,3 +237,6 @@ This repository serves as the official landing page for King's Quest 3. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of King's Quest 3 today!**
+
+---
+**Last updated:** 2026-09-12 16:02:17 UTC
