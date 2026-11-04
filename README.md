@@ -239,4 +239,4 @@ This repository serves as the official landing page for King's Quest 3. The soft
 **Get the most recent version of King's Quest 3 today!**
 
 ---
-**Last updated:** 2026-11-03 21:33:12 UTC
+**Last updated:** 2026-11-04 01:56:43 UTC
